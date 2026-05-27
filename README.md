@@ -351,7 +351,7 @@ https://www.kaggle.com/datasets/joebeachcapital/30000-spotify-songs
 
 ## 👩‍💻 Author
 
-**Bhavya Chopra **
+Bhavya Chopra 
 
 Data Analytics Student  
 Learning Python, Statistics, Probability, Excel, and Data Visualization
