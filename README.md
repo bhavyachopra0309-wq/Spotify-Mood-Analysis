@@ -327,24 +327,6 @@ This project classifies songs into:
 Turns out my playlist is not random, it is just statistically chaotic.
 
 ---
-## 📊 Project Visuals
-
-### Mood Distribution
-
-![Mood Distribution](visuals/mood_distribution.png)
-
----
-
-### Correlation Heatmap
-
-![Heatmap](visuals/correlation_heatmap.png)
-
----
-
-### Energy vs Valence
-
-![Scatterplot](visuals/energy_vs_valence.png)
-
 
 ## 🏷️ GitHub Topics
 
